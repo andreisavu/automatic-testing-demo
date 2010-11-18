@@ -1,0 +1,6 @@
+
+Password reset email.
+
+{{ reset_url }}
+
+Thanks
