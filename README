@@ -3,7 +3,7 @@ Automatic Testing Demo
 ----------------------
 
 This is just a demo showing how you can perform functional testing for 
-a basic web application build using the tornado web framework using 
+a basic web application built using the tornado web framework using 
 MongoDB for storing data and a SMTP server for sending emails. 
 
 [1] http://www.tornadoweb.org/
